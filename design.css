@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+	align-items: center;
+  background-color: #000000;
+  color: #AADDFF;
+}
+.social {
+  color: #00CFFF;
+}
+/* TODO: somehow get this into the center of the page */
+.theband {
+  color: #00CFFF;
+  font-size: 18;
+  font-weight: bold;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  width: 600px;
+}
+div.story {
+  max-width: 600px;
+	margin: auto;
+  align-self: center;
+  text-align: left;
+  color: #EAEAFF;
+  font-size: 20px;
+}
+strong.WORB {
+  color: #00CFFF;
+  /*font-size: 18px;*/
+}
+#player {
+  align: center;
+  margin-left:auto;
+  margin-right:auto;
+  width: 600px;
+  height: 150px;
+}
